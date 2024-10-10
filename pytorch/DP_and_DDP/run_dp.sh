@@ -1,0 +1,1 @@
+python3 pytorch/DP_and_DDP/dp_demo.py

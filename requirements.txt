@@ -1,0 +1,7 @@
+transformers
+datasets
+accelerate
+nvidia-ml-py3
+pynvml
+torch==2.0.1
+huggingface_hub
